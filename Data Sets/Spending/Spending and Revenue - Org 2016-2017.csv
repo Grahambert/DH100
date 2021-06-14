@@ -1,0 +1,34 @@
+﻿Chart1_SeriesGroup5_label,Chart1_SeriesGroup5__label,Chart1_SeriesGroup5__Value_X,Chart1_SeriesGroup5__Value_Y
+Community Health,,Community Health,2005817095.18
+Culture & Recreation,,Culture & Recreation,375103650.40
+General Administration & Finance,,General Administration & Finance,3519343061.88
+General City Responsibilities,,General City Responsibilities,1931041195.50
+Human Welfare & Neighborhood Development,,Human Welfare & Neighborhood Development,1604566611.65
+Public Protection,,Public Protection,1523675367.10
+"Public Works, Transportation & Commerce",,"Public Works, Transportation & Commerce",5355878028.08
+
+Chart1_SeriesGroup2_label,Chart1_SeriesGroup2_Line_Chart_CategoryGroup_label,Chart1_SeriesGroup2_Line_Chart_CategoryGroup_Value_X,Chart1_SeriesGroup2_Line_Chart_CategoryGroup_Value_Y
+Community Health,2017,2017,2005817095.18
+Culture & Recreation,2017,2017,375103650.40
+General Administration & Finance,2017,2017,3519343061.88
+General City Responsibilities,2017,2017,1931041195.50
+Human Welfare & Neighborhood Development,2017,2017,1604566611.65
+Public Protection,2017,2017,1523675367.10
+"Public Works, Transportation & Commerce",2017,2017,5355878028.08
+
+Textbox29,Textbox36,Org_Group2,Textbox55,Org_Grand_Total2,CY_Elim3,Net_Total2
+Group,"2016-2017
+Amount",Community Health,"$2,005,817,095","$16,315,425,010","($2,513,799,192)","$13,801,625,818"
+Group,"2016-2017
+Amount",Culture & Recreation,"$375,103,650","$16,315,425,010","($2,513,799,192)","$13,801,625,818"
+Group,"2016-2017
+Amount",General Administration & Finance,"$3,519,343,062","$16,315,425,010","($2,513,799,192)","$13,801,625,818"
+Group,"2016-2017
+Amount",General City Responsibilities,"$1,931,041,196","$16,315,425,010","($2,513,799,192)","$13,801,625,818"
+Group,"2016-2017
+Amount",Human Welfare & Neighborhood Development,"$1,604,566,612","$16,315,425,010","($2,513,799,192)","$13,801,625,818"
+Group,"2016-2017
+Amount",Public Protection,"$1,523,675,367","$16,315,425,010","($2,513,799,192)","$13,801,625,818"
+Group,"2016-2017
+Amount","Public Works, Transportation & Commerce","$5,355,878,028","$16,315,425,010","($2,513,799,192)","$13,801,625,818"
+

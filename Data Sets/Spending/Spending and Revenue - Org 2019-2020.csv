@@ -1,0 +1,34 @@
+﻿Chart1_SeriesGroup5_label,Chart1_SeriesGroup5__label,Chart1_SeriesGroup5__Value_X,Chart1_SeriesGroup5__Value_Y
+Community Health,,Community Health,2476888601.27
+Culture & Recreation,,Culture & Recreation,422121730.13
+General Administration & Finance,,General Administration & Finance,3614978246.91
+General City Responsibilities,,General City Responsibilities,799230521.51
+Human Welfare & Neighborhood Development,,Human Welfare & Neighborhood Development,2004096809.38
+Public Protection,,Public Protection,1703040095.06
+"Public Works, Transportation & Commerce",,"Public Works, Transportation & Commerce",6259886430.85
+
+Chart1_SeriesGroup2_label,Chart1_SeriesGroup2_Line_Chart_CategoryGroup_label,Chart1_SeriesGroup2_Line_Chart_CategoryGroup_Value_X,Chart1_SeriesGroup2_Line_Chart_CategoryGroup_Value_Y
+Community Health,2020,2020,2476888601.27
+Culture & Recreation,2020,2020,422121730.13
+General Administration & Finance,2020,2020,3614978246.91
+General City Responsibilities,2020,2020,799230521.51
+Human Welfare & Neighborhood Development,2020,2020,2004096809.38
+Public Protection,2020,2020,1703040095.06
+"Public Works, Transportation & Commerce",2020,2020,6259886430.85
+
+Textbox29,Textbox36,Org_Group2,Textbox55,Org_Grand_Total2,CY_Elim3,Net_Total2
+Group,"2019-2020
+Amount",Community Health,"$2,476,888,601","$17,280,242,435","($2,140,115,643)","$15,140,126,792"
+Group,"2019-2020
+Amount",Culture & Recreation,"$422,121,730","$17,280,242,435","($2,140,115,643)","$15,140,126,792"
+Group,"2019-2020
+Amount",General Administration & Finance,"$3,614,978,247","$17,280,242,435","($2,140,115,643)","$15,140,126,792"
+Group,"2019-2020
+Amount",General City Responsibilities,"$799,230,522","$17,280,242,435","($2,140,115,643)","$15,140,126,792"
+Group,"2019-2020
+Amount",Human Welfare & Neighborhood Development,"$2,004,096,809","$17,280,242,435","($2,140,115,643)","$15,140,126,792"
+Group,"2019-2020
+Amount",Public Protection,"$1,703,040,095","$17,280,242,435","($2,140,115,643)","$15,140,126,792"
+Group,"2019-2020
+Amount","Public Works, Transportation & Commerce","$6,259,886,431","$17,280,242,435","($2,140,115,643)","$15,140,126,792"
+
