@@ -1,0 +1,272 @@
+ID,Court Number 1,Court Number 2,Court Number 3,Court Number 4,Case Type,Jury Sworn Date,Trial End Date,Co-Defendant,Trial Length Days,Convicted,Concluded,Trial Outcome,Crime Description
+1263,18013240,,,,Felony,2019/01/02,2019/01/08,N,6,Convicted,Concluded,Convicted,Robbery 2nd Degre
+1266,18013592,,,,Misdemeanor,2019/01/04,2019/01/14,N,10,Not Convicted,Not Concluded,Mistrial,Assault-Misdemean
+1267,17008515,,,,Felony,2019/01/04,2019/01/16,N,12,Convicted,Concluded,Convicted,Assault-Felony
+1265,18008255,,,,Misdemeanor,2019/01/08,2019/01/14,N,6,Convicted,Concluded,Convicted,Threats
+1268,16008618,,,,Misdemeanor,2019/01/09,2019/01/16,N,7,Convicted,Concluded,Convicted,DUI
+1275,17001175,,,,Felony,2019/01/09,2019/01/29,N,20,Convicted,Concluded,Convicted,Hit and Run
+1269,16019843,,,,Felony,2019/01/10,2019/01/17,N,7,Convicted,Concluded,Convicted,Robbery 1st Degre
+1270,18018409,,,,Misdemeanor,2019/01/14,2019/01/18,N,4,Not Convicted,Concluded,Not Convicted,Threats
+1272,18018183,,,,Misdemeanor,2019/01/14,2019/01/24,N,10,Convicted,Concluded,Convicted,DUI with Injury
+1273,18015787,,,,Felony,2019/01/14,2019/01/25,N,11,Convicted,Concluded,Convicted,Assault-Felony
+1271,18019316,,,,Misdemeanor,2019/01/15,2019/01/23,N,8,Not Convicted,Not Concluded,Mistrial,Other-Misdemeanor
+1274,18005013,,,,Misdemeanor,2019/01/16,2019/01/25,N,9,Convicted,Concluded,Convicted,DUI
+1280,18016136,,,,Felony,2019/01/17,2019/02/04,N,18,Convicted,Concluded,Convicted,Assault-Felony
+1285,16003117,,,,Felony,2019/01/17,2019/02/15,N,29,Convicted,Concluded,Convicted,Homicide
+1277,18018982,,,,Misdemeanor,2019/01/22,2019/01/29,N,7,Convicted,Concluded,Convicted,Assault-Misdemean
+1276,18019587,,,,Misdemeanor,2019/01/23,2019/01/29,N,6,Not Convicted,Not Concluded,Mistrial,Assault-Misdemean
+1278,18008912,,,,Felony,2019/01/23,2019/01/31,N,8,Convicted,Concluded,Convicted,Burglary-Resident
+1279,2512204,,,,Misdemeanor,2019/01/28,2019/01/31,N,3,Convicted,Concluded,Convicted,Gun-Misdemeanor
+1294,12022732,,,,Felony,2019/01/28,2019/03/04,N,35,Convicted,Concluded,Convicted,Homicide
+1281,16015069,,,,Misdemeanor,2019/02/04,2019/02/08,N,4,Not Convicted,Concluded,Not Convicted,DUI
+1283,2508915,,,,Misdemeanor,2019/02/05,2019/02/13,N,8,Convicted,Concluded,Convicted,DUI
+1288,18014815,,,,Misdemeanor,2019/02/06,2019/02/19,N,13,Not Convicted,Concluded,Not Convicted,Assault-Misdemean
+1299,18008361,,,,Misdemeanor,2019/02/06,2019/03/11,N,33,Not Convicted,Not Concluded,Mistrial,Assault-Misdemean
+1284,2510632,,,,Misdemeanor,2019/02/07,2019/02/14,N,7,Not Convicted,Not Concluded,Mistrial,DUI
+1287,18015202,,,,Felony,2019/02/07,2019/02/19,N,12,Convicted,Concluded,Convicted,Assault-Felony
+1286,18015469,,,,Misdemeanor,2019/02/11,2019/02/15,N,4,Not Convicted,Concluded,Not Convicted,DUI
+1290,18004840,,,,Misdemeanor,2019/02/13,2019/02/20,N,7,Convicted,Concluded,Convicted,DUI
+1291,18017678,,,,Misdemeanor,2019/02/15,2019/02/26,N,11,Convicted,Concluded,Convicted,Assault-Misdemean
+1292,17011102,,,,Misdemeanor,2019/02/15,2019/02/27,N,12,Convicted,Concluded,Convicted,DUI
+1289,18014787,,,,Misdemeanor,2019/02/19,2019/02/19,N,0,Not Convicted,Not Concluded,Mistrial,Assault-Misdemean
+1293,18017483,,,,Felony,2019/02/19,2019/03/01,N,10,Convicted,Concluded,Convicted,Stalking
+1297,17006287,,,,Felony,2019/02/19,2019/03/08,N,17,Not Convicted,Not Concluded,Mistrial,Theft-Non Auto
+1295,18019507,,,,Misdemeanor,2019/02/28,2019/03/05,N,5,Convicted,Concluded,Convicted,DUI
+1298,18014598,,,,Misdemeanor,2019/02/28,2019/03/08,N,8,Not Convicted,Not Concluded,Mistrial,DUI
+1300,16021754,,,,Felony,2019/02/28,2019/03/11,N,11,Convicted,Concluded,Convicted,Assault-Felony
+1296,2513264,,,,Misdemeanor,2019/03/04,2019/03/07,N,3,Not Convicted,Not Concluded,Mistrial,DUI
+1301,18013055,,,,Misdemeanor,2019/03/06,2019/03/11,N,5,Not Convicted,Concluded,Convicted,Assault-Misdemean
+1304,18014100,,,,Misdemeanor,2019/03/06,2019/03/13,N,7,Convicted,Concluded,Convicted,Assault-Misdemean
+1303,18015292,,,,Misdemeanor,2019/03/07,2019/03/13,N,6,Convicted,Concluded,Convicted,DUI
+1309,18017987,,,,Felony,2019/03/07,2019/03/18,N,11,Not Convicted,Not Concluded,Mistrial,Child Sexual Abus
+1302,18016578,,,,Misdemeanor,2019/03/08,2019/03/12,N,4,Convicted,Concluded,Convicted,DUI
+1305,18017316,,,,Felony,2019/03/11,2019/03/13,N,2,Not Convicted,Concluded,Not Convicted,Assault-Felony
+1306,17019284,,,,Misdemeanor,2019/03/11,2019/03/14,N,3,Convicted,Concluded,Convicted,DUI
+1307,17016611,,,,Misdemeanor,2019/03/12,2019/03/14,N,2,Convicted,Concluded,Convicted,DUI
+1308,17019284,,,,Misdemeanor,2019/03/12,2019/03/14,N,2,Convicted,Concluded,Convicted,DUI
+1310,18015145,,,,Misdemeanor,2019/03/12,2019/03/18,N,6,Convicted,Concluded,Convicted,DUI
+1318,18016333,,,,Felony,2019/03/13,2019/04/09,N,27,Convicted,Concluded,Convicted,Attempted Homicid
+1311,2512283,,,,Misdemeanor,2019/03/18,2019/03/21,N,3,Not Convicted,Concluded,Not Convicted,DUI
+1313,17014009,,,,Felony,2019/03/19,2019/03/27,N,8,Convicted,Concluded,Convicted,Child Sexual Abus
+1312,18015373,,,,Misdemeanor,2019/03/20,2019/03/26,N,6,Convicted,Concluded,Convicted,DUI
+1314,2502905,,,,Misdemeanor,2019/03/21,2019/04/03,N,13,Not Convicted,Not Concluded,Mistrial,DUI
+1324,13028170,,,,Felony,2019/03/22,2019/04/17,N,26,Convicted,Concluded,Convicted,Homicide
+1317,19001937,,,,Misdemeanor,2019/03/25,2019/04/04,N,10,Convicted,Concluded,Convicted,Assault-Misdemean
+1315,19002795,,,,Misdemeanor,2019/03/27,2019/04/03,N,7,Not Convicted,Concluded,Not Convicted,Resist/Obstruct/D
+1320,18017977,,,,Felony,2019/03/28,2019/04/12,N,15,Not Convicted,Concluded,Not Convicted,Assault-Felony
+1326,18014000,,,,Felony,2019/03/28,2019/04/18,N,21,Not Convicted,Concluded,Not Convicted,Assault-Felony
+1316,18019739,,,,Misdemeanor,2019/04/02,2019/04/03,N,1,Convicted,Concluded,Convicted,Stay Away Violati
+1327,18008077,,,,Felony,2019/04/02,2019/04/24,N,22,Convicted,Concluded,Convicted,Burglary-Resident
+1321,19003689,,,,Misdemeanor,2019/04/08,2019/04/15,N,7,Convicted,Concluded,Convicted,Assault-Misdemean
+1319,19002535,,,,Misdemeanor,2019/04/09,2019/04/12,N,3,Not Convicted,Not Concluded,Mistrial,Assault-Misdemean
+1325,18016154,,,,Felony,2019/04/09,2019/04/18,N,9,Not Convicted,Concluded,Not Convicted,Narcotics
+1322,18018084,,,,Felony,2019/04/10,2019/04/15,N,5,Convicted,Concluded,Convicted,Robbery 2nd Degre
+1333,18020392,,,,Felony,2019/04/10,2019/05/02,N,22,Convicted,Concluded,Convicted,Robbery 2nd Degre
+1345,14012376,,,,Felony,2019/04/10,2019/05/14,N,34,Convicted,Concluded,Convicted,Sexual Assault
+1323,19002143,,,,Misdemeanor,2019/04/11,2019/04/17,N,6,Convicted,Concluded,Convicted,DUI
+1335,18019470,,,,Felony,2019/04/16,2019/05/03,Y,17,Convicted,Concluded,Convicted,Robbery 1st Degre
+1337,18018604,,,,Felony,2019/04/16,2019/05/03,Y,17,Not Convicted,Not Concluded,Mistrial,Robbery 1st Degre
+1339,18010952,,,,Felony,2019/04/17,2019/05/06,N,19,Convicted,Concluded,Convicted,Gun-Felony
+1347,18019295,,,,Felony,2019/04/18,2019/05/14,N,26,Not Convicted,Not Concluded,Mistrial,Assault-Felony
+1328,2513148,,,,Misdemeanor,2019/04/22,2019/04/24,N,2,Convicted,Concluded,Convicted,DUI
+1331,19003860,,,,Misdemeanor,2019/04/22,2019/04/26,N,4,Not Convicted,Concluded,Not Convicted,Assault-Misdemean
+1334,18016393,,18016393,,Felony,2019/04/22,2019/05/03,N,11,Not Convicted,Not Concluded,Mistrial,Threats
+1329,19001435,,,,Misdemeanor,2019/04/23,2019/04/25,N,2,Not Convicted,Concluded,Not Convicted,Burglary-Auto
+1330,19002503,,,,Misdemeanor,2019/04/23,2019/04/26,N,3,Not Convicted,Concluded,Not Convicted,Assault-Misdemean
+1332,17017759,18008906,,,Misdemeanor,2019/04/24,2019/04/29,N,5,Convicted,Concluded,Convicted,Assault-Misdemean
+1346,2500028,,,,Misdemeanor,2019/04/24,2019/05/14,N,20,Convicted,Concluded,Convicted,Theft- Non-Auto
+1336,19001550,,,,Felony,2019/04/29,2019/05/03,N,4,Not Convicted,Concluded,Not Convicted,Auto Theft
+1340,19003445,,,,Misdemeanor,2019/04/30,2019/05/06,N,6,Convicted,Concluded,Convicted,DUI with Injury
+1338,18017394,,,,Misdemeanor,2019/05/01,2019/05/06,N,5,Convicted,Concluded,Convicted,DUI
+1341,18006984,,,,Misdemeanor,2019/05/01,2019/05/08,N,7,Not Convicted,Not Concluded,Mistrial,DUI
+1348,2500028,,,,Misdemeanor,2019/05/01,2019/05/14,N,13,Convicted,Concluded,Convicted,Theft- Non-Auto
+1352,468996,,,,CV,2019/05/01,2019/05/20,N,19,Not Convicted,Not Concluded,Mistrial,NA
+1344,18010192,,,,Misdemeanor,2019/05/02,2019/05/10,N,8,Convicted,Concluded,Convicted,DUI
+1351,19001350,,,,Felony,2019/05/02,2019/05/17,N,15,Not Convicted,Not Concluded,Mistrial,Assault-Felony
+1342,19000886,,,,Misdemeanor,2019/05/06,2019/05/09,N,3,Convicted,Concluded,Convicted,DUI
+1343,18018402,,,,Misdemeanor,2019/05/07,2019/05/09,N,2,Convicted,Concluded,Convicted,DUI
+1349,18007292,,,,Misdemeanor,2019/05/13,2019/05/14,N,1,Not Convicted,Concluded,Not Convicted,Elder Abuse-Physi
+1350,19004667,,,,Misdemeanor,2019/05/13,2019/05/16,N,3,Convicted,Concluded,Convicted,Theft- Non-Auto
+1353,18017690,,,,Misdemeanor,2019/05/14,2019/05/20,N,6,Convicted,Concluded,Convicted,DUI
+1354,18001036,,,,Felony,2019/05/14,2019/05/21,N,7,Convicted,Concluded,Convicted,Robbery 2nd Degre
+1359,19001893,,,,Misdemeanor,2019/05/15,2019/05/29,N,14,Not Convicted,Not Concluded,Mistrial,Stay Away Violati
+1358,18014598,,,,Misdemeanor,2019/05/16,2019/05/28,N,12,Convicted,Concluded,Convicted,DUI
+1367,18017728,,,,Felony,2019/05/16,2019/06/05,N,20,Convicted,Concluded,Convicted,Robbery 2nd Degre
+1356,18020047,,,,Misdemeanor,2019/05/17,2019/05/23,N,6,Convicted,Concluded,Convicted,DUI
+1355,18020047,,,,Misdemeanor,2019/05/20,2019/05/23,N,3,Convicted,Concluded,Convicted,DUI
+1357,19003971,,,,Misdemeanor,2019/05/20,2019/05/24,N,4,Convicted,Concluded,Convicted,Threats
+1361,2510637,,,,Misdemeanor,2019/05/22,2019/05/30,N,8,Convicted,Concluded,Convicted,DUI
+1364,17011896,,,,Misdemeanor,2019/05/22,2019/05/31,N,9,Convicted,Concluded,Convicted,DUI
+1378,19002099,,,,Felony,2019/05/22,2019/06/20,Y,29,Not Convicted,Not Concluded,Mistrial,Sexual Assault
+1379,19002098,,,,Felony,2019/05/22,2019/06/20,Y,29,Not Convicted,Concluded,Not Convicted,Sexual Assault
+1360,18016756,,,,Misdemeanor,2019/05/23,2019/05/30,N,7,Convicted,Concluded,Convicted,DUI
+1365,17000741,,,,Misdemeanor,2019/05/23,2019/05/31,N,8,Convicted,Concluded,Convicted,DUI
+1363,18013515,,,,Misdemeanor,2019/05/28,2019/05/30,N,2,Not Convicted,Concluded,Not Convicted,Stay Away Violati
+1362,18013515,,,,Misdemeanor,2019/05/29,2019/05/30,N,1,Not Convicted,Concluded,Not Convicted,Stay Away Violati
+1366,19004014,,,,Misdemeanor,2019/05/30,2019/06/04,N,5,Convicted,Concluded,Convicted,Assault-Misdemean
+1370,16022157,,,,Misdemeanor,2019/05/31,2019/06/12,N,12,Not Convicted,Not Concluded,Mistrial,DUI
+1371,18017115,,,,Misdemeanor,2019/06/03,2019/06/13,N,10,Not Convicted,Concluded,Not Convicted,DUI
+1372,19000576,,,,Misdemeanor,2019/06/06,2019/06/14,N,8,Not Convicted,Concluded,Not Convicted,Resist/Obstruct/D
+1368,16021520,,,,Misdemeanor,2019/06/10,2019/06/11,N,1,Not Convicted,Not Concluded,Mistrial,DUI
+1369,19007227,,,,Misdemeanor,2019/06/10,2019/06/12,N,2,Convicted,Concluded,Convicted,Stay Away Violati
+1373,19000576,,,,Misdemeanor,2019/06/10,2019/06/14,N,4,Not Convicted,Concluded,Not Convicted,Resist/Obstruct/D
+1375,19000115,,,,Felony,2019/06/10,2019/06/18,N,8,Convicted,Concluded,Convicted,Burglary-Resident
+1374,18019749,,,,Misdemeanor,2019/06/11,2019/06/14,N,3,Convicted,Concluded,Convicted,DUI
+1388,17015398,,,,Felony,2019/06/11,2019/07/11,N,30,Convicted,Concluded,Convicted,Attempted Homicid
+1376,16014528,,,,Felony,2019/06/14,2019/06/19,N,5,Convicted,Concluded,Convicted,Burglary-Auto
+1377,18018425,,,,Misdemeanor,2019/06/14,2019/06/20,N,6,Convicted,Concluded,Convicted,DUI
+1385,18016798,,,,Felony,2019/06/18,2019/07/03,N,15,Convicted,Concluded,Convicted,Assault-Felony
+1380,18019812,,,,Misdemeanor,2019/06/20,2019/06/26,N,6,Not Convicted,Concluded,Not Convicted,Stay Away Violati
+1391,18010507,,,,Felony,2019/06/20,2019/07/16,N,26,Not Convicted,Concluded,Not Convicted,Attempted Homicid
+1381,2509404,,,,Misdemeanor,2019/06/21,2019/06/27,Y,6,Convicted,Concluded,Convicted,Hit and Run
+1382,2508903,,,,Misdemeanor,2019/06/21,2019/06/27,Y,6,Not Convicted,Concluded,Not Convicted,Hit and Run
+1386,19000933,,,,Misdemeanor,2019/06/24,2019/07/03,N,9,Convicted,Concluded,Convicted,DUI
+1383,19000933,,,,Misdemeanor,2019/06/25,2019/07/03,N,8,Convicted,Concluded,Convicted,DUI
+1384,19003809,,,,Felony,2019/06/28,2019/07/03,N,5,Not Convicted,Concluded,Not Convicted,Threats
+1387,18006664,,,,Misdemeanor,2019/07/02,2019/07/10,N,8,Convicted,Concluded,Convicted,DUI
+1427,13035658,,,,Felony,2019/07/02,2019/09/06,Y,66,Not Convicted,Not Concluded,Mistrial,Homicide
+1428,13035657,,,,Felony,2019/07/02,2019/09/06,Y,66,Convicted,Concluded,Convicted,Homicide
+1389,18020463,,,,Felony,2019/07/10,2019/07/15,N,5,Convicted,Concluded,Convicted,Other-Felony
+1390,16022157,,,,Misdemeanor,2019/07/11,2019/07/16,N,5,Not Convicted,Not Concluded,Mistrial,DUI
+1403,18011360,,,,Felony,2019/07/11,2019/08/02,N,22,Convicted,Concluded,Convicted,Sexual Assault
+1393,18009517,,,,Misdemeanor,2019/07/15,2019/07/23,N,8,Convicted,Concluded,Convicted,DUI
+1395,19006050,,,,Felony,2019/07/15,2019/07/24,N,9,Not Convicted,Concluded,Not Convicted,Robbery 2nd Degre
+1392,19002784,,,,Misdemeanor,2019/07/16,2019/07/23,N,7,Convicted,Concluded,Convicted,DUI
+1394,18004170,,,,Felony,2019/07/16,2019/07/24,N,8,Convicted,Concluded,Convicted,Burglary-Resident
+1525,19009175,,,,Felony,2019/07/16,2020/07/17,N,367,Not Convicted,Concluded,Not Convicted,Theft-Non Auto
+1397,19000636,,,,Felony,2019/07/17,2019/07/24,N,7,Convicted,Concluded,Convicted,Robbery 2nd Degre
+1396,18010362,,,,Misdemeanor,2019/07/19,2019/07/24,N,5,Convicted,Concluded,Convicted,DUI
+1400,17006552,17011546,,,Felony,2019/07/23,2019/08/01,N,9,Convicted,Concluded,Convicted,Child Sexual Abus
+1401,18017370,,,,Felony,2019/07/23,2019/08/02,N,10,Convicted,Concluded,Convicted,Threats
+1398,17007868,,,,Misdemeanor,2019/07/24,2019/07/30,N,6,Convicted,Concluded,Convicted,DUI
+1399,19006254,,,,Misdemeanor,2019/07/24,2019/07/30,N,6,Convicted,Concluded,Convicted,DUI
+1402,2515864,,,,Misdemeanor,2019/07/29,2019/08/02,N,4,Convicted,Concluded,Convicted,DUI
+1404,19008373,,,,Misdemeanor,2019/07/30,2019/08/07,N,8,Convicted,Concluded,Convicted,DUI
+1407,468996,,,,CV,2019/07/31,2019/08/14,N,14,Convicted,Concluded,Convicted,NA
+1406,19007080,,,,Misdemeanor,2019/08/01,2019/08/08,N,7,Not Convicted,Not Concluded,Mistrial,Stay Away Violati
+1405,19010453,,,,Misdemeanor,2019/08/06,2019/08/08,N,2,Not Convicted,Not Concluded,Mistrial,Assault-Misdemean
+1408,19008024,,,,Misdemeanor,2019/08/08,2019/08/14,N,6,Convicted,Concluded,Convicted,DUI
+1411,19008600,,,,Misdemeanor,2019/08/13,2019/08/20,N,7,Convicted,Concluded,Convicted,Burglary
+1417,19007034,,,,Felony,2019/08/13,2019/08/23,N,10,Not Convicted,Not Concluded,Mistrial,Assault-Felony
+1420,18001960,,,,Misdemeanor,2019/08/13,2019/08/27,N,14,Convicted,Concluded,Convicted,DUI
+1409,19007870,,,,Misdemeanor,2019/08/14,2019/08/20,N,6,Convicted,Concluded,Convicted,Vandalism
+1413,19001004,,,,Misdemeanor,2019/08/14,2019/08/21,N,7,Convicted,Concluded,Convicted,DUI
+1416,18019668,,,,Felony,2019/08/14,2019/08/23,N,9,Convicted,Concluded,Convicted,Assault-Felony
+1410,19005740,,,,Felony,2019/08/16,2019/08/20,N,4,Convicted,Concluded,Convicted,Threats
+1412,19001152,,,,Misdemeanor,2019/08/16,2019/08/21,N,5,Not Convicted,Not Concluded,Mistrial,Indecent Exposure
+1415,2515999,,,,Misdemeanor,2019/08/16,2019/08/22,N,6,Not Convicted,Not Concluded,Mistrial,DUI
+1419,19002672,,,,Misdemeanor,2019/08/19,2019/08/26,N,7,Convicted,Concluded,Convicted,Other-Misdemeanor
+1423,2514218,,,,Misdemeanor,2019/08/19,2019/08/29,Y,10,Convicted,Concluded,Convicted,Assault-Misdemean
+1424,2514213,,,,Misdemeanor,2019/08/19,2019/08/29,Y,10,Convicted,Concluded,Convicted,Assault-Misdemean
+1414,19007661,,,,Misdemeanor,2019/08/20,2019/08/21,N,1,Convicted,Concluded,Convicted,DUI
+1418,19002672,,,,Misdemeanor,2019/08/20,2019/08/26,N,6,Convicted,Concluded,Convicted,Other-Misdemeanor
+1421,19001851,,,,Misdemeanor,2019/08/23,2019/08/27,N,4,Not Convicted,Concluded,Not Convicted,Receiving Stolen
+1422,19008848,,,,Misdemeanor,2019/08/23,2019/08/28,N,5,Not Convicted,Concluded,Not Convicted,Other-Misdemeanor
+1425,17019027,,,,Misdemeanor,2019/08/23,2019/08/30,N,7,Convicted,Concluded,Convicted,DUI
+1435,19008832,,,,Misdemeanor,2019/08/27,2019/09/18,N,22,Convicted,Concluded,Convicted,DUI
+1426,18019549,,,,Misdemeanor,2019/08/29,2019/09/04,N,6,Convicted,Concluded,Convicted,DUI
+1429,18016583,,,,Misdemeanor,2019/09/02,2019/09/06,N,4,Convicted,Concluded,Convicted,DUI
+1430,19010176,,,,Misdemeanor,2019/09/03,2019/09/10,N,7,Not Convicted,Not Concluded,Mistrial,Stay Away Violati
+1431,19009586,,,,Misdemeanor,2019/09/03,2019/09/10,N,7,Convicted,Concluded,Convicted,Elder Abuse-Physi
+1439,19007542,,,,Misdemeanor,2019/09/06,2019/09/20,N,14,Convicted,Concluded,Convicted,DUI
+1434,17009811,,,,Felony,2019/09/09,2019/09/18,N,9,Convicted,Concluded,Convicted,Attempted Homicid
+1441,19006930,,,,Felony,2019/09/09,2019/09/24,N,15,Convicted,Concluded,Convicted,Elder Abuse-Physi
+1433,19003885,,,,Misdemeanor,2019/09/11,2019/09/17,N,6,Convicted,Concluded,Convicted,DUI
+1437,19007576,,,,Felony,2019/09/11,2019/09/19,N,8,Convicted,Concluded,Convicted,Kidnapping
+1438,19009444,,,,Felony,2019/09/11,2019/09/19,N,8,Convicted,Concluded,Convicted,Auto Theft
+1432,16013017,,,,Felony,2019/09/12,2019/09/16,N,4,Not Convicted,Concluded,Not Convicted,Assault-Felony
+1440,19006237,,,,Misdemeanor,2019/09/13,2019/09/24,N,11,Convicted,Concluded,Convicted,DUI
+1449,19007345,,,,Misdemeanor,2019/09/13,2019/10/07,N,24,Convicted,Concluded,Convicted,DUI
+1436,17015010,,,,Misdemeanor,2019/09/16,2019/09/19,N,3,Convicted,Concluded,Convicted,Theft- Non-Auto
+1442,19005989,,,,Misdemeanor,2019/09/20,2019/09/25,N,5,Convicted,Concluded,Convicted,DUI
+1443,19005049,,,,Felony,2019/09/20,2019/09/25,N,5,Not Convicted,Concluded,Not Convicted,Robbery 1st Degre
+1444,19004335,,,,Misdemeanor,2019/09/20,2019/09/25,N,5,Convicted,Concluded,Convicted,DUI
+1445,19013398,,,,Misdemeanor,2019/09/25,2019/10/02,N,7,Not Convicted,Not Concluded,Mistrial,Stay Away Violati
+1446,17008659,,,,Misdemeanor,2019/09/25,2019/10/03,N,8,Convicted,Concluded,Convicted,DUI
+1447,18018543,,,,Misdemeanor,2019/09/30,2019/10/04,N,4,Convicted,Concluded,Convicted,DUI
+1448,19007345,,,,Misdemeanor,2019/09/30,2019/10/07,N,7,Convicted,Concluded,Convicted,DUI
+1451,19003313,,,,Felony,2019/09/30,2019/10/10,N,10,Not Convicted,Not Concluded,Mistrial,Hit and Run
+1452,19003202,,,,Felony,2019/09/30,2019/10/16,N,16,Convicted,Concluded,Convicted,Assault-Felony
+1450,19005762,,,,Misdemeanor,2019/10/03,2019/10/09,N,6,Convicted,Concluded,Convicted,DUI
+1455,19005576,,,,CV,2019/10/04,2019/10/18,N,14,Convicted,Concluded,Convicted,Conversion
+1453,2515551,,,,Misdemeanor,2019/10/07,2019/10/17,N,10,Convicted,Concluded,Convicted,DUI
+1468,17002439,,,,Felony,2019/10/10,2019/11/06,N,27,Convicted,Concluded,Convicted,Homicide
+1459,18005581,,,,Felony,2019/10/11,2019/10/25,N,14,Convicted,Concluded,Convicted,Assault-Felony
+1460,19006242,,,,Misdemeanor,2019/10/11,2019/10/25,N,14,Convicted,Concluded,Convicted,DUI
+1454,19008244,,,,Misdemeanor,2019/10/15,2019/10/18,N,3,Convicted,Concluded,Convicted,DUI
+1456,19012194,,,,Misdemeanor,2019/10/16,2019/10/21,N,5,Convicted,Concluded,Convicted,DUI
+1457,18008989,,,,Felony,2019/10/17,2019/10/23,N,6,Not Convicted,Concluded,Not Convicted,Animal Cruelty
+1458,19003321,,,,Felony,2019/10/17,2019/10/24,N,7,Convicted,Concluded,Convicted,Assault-Felony
+1461,2517516,,,,Misdemeanor,2019/10/21,2019/10/28,N,7,Not Convicted,Not Concluded,Mistrial,DUI
+1463,17011185,,,,Misdemeanor,2019/10/21,2019/10/28,N,7,Convicted,Concluded,Convicted,DUI
+1466,2515999,,,,Misdemeanor,2019/10/21,2019/10/30,N,9,Not Convicted,Concluded,Not Convicted,DUI
+1464,2517132,,,,Misdemeanor,2019/10/22,2019/10/28,N,6,Convicted,Concluded,Convicted,DUI
+1472,19009528,,,,Misdemeanor,2019/10/22,2019/11/13,N,22,Convicted,Concluded,Convicted,Assault-Misdemean
+1462,17002833,,,,Misdemeanor,2019/10/23,2019/10/28,N,5,Convicted,Concluded,Convicted,DUI
+1465,19011239,,,,Felony,2019/10/23,2019/10/29,N,6,Convicted,Concluded,Convicted,Burglary-Resident
+1467,19012205,,,,Misdemeanor,2019/10/29,2019/10/31,N,2,Convicted,Concluded,Convicted,Auto Theft
+1470,16016159,,,,Misdemeanor,2019/11/01,2019/11/08,N,7,Convicted,Concluded,Convicted,DUI
+1469,19012441,,,,Misdemeanor,2019/11/04,2019/11/07,N,3,Convicted,Concluded,Convicted,DUI
+1471,19010003,,,,Felony,2019/11/05,2019/11/12,N,7,Convicted,Concluded,Convicted,Auto Theft
+1479,19000989,,,,Felony,2019/11/05,2019/11/21,N,16,Convicted,Concluded,Convicted,Assault-Felony
+1474,19006679,,,,Felony,2019/11/06,2019/11/15,N,9,Not Convicted,Concluded,Not Convicted,Attempted Homicid
+1476,2516228,,,,Misdemeanor,2019/11/08,2019/11/18,N,10,Convicted,Concluded,Convicted,DUI
+1494,17004252,,,,Felony,2019/11/11,2019/12/20,N,39,Convicted,Concluded,Convicted,Homicide
+1473,17007131,,,,Misdemeanor,2019/11/12,2019/11/14,N,2,Convicted,Concluded,Convicted,DUI
+1478,18002364,,,,Misdemeanor,2019/11/13,2019/11/21,N,8,Convicted,Concluded,Convicted,DUI
+1477,19010081,,,,Felony,2019/11/15,2019/11/20,N,5,Convicted,Concluded,Convicted,Assault-Felony
+1495,17004253,,,,Felony,2019/11/15,2019/12/20,N,35,Convicted,Concluded,Convicted,Homicide
+1475,18006210,,,,Felony,2019/11/18,2019/11/18,N,0,Not Convicted,Concluded,Not Convicted,Assault-Felony
+1483,19000071,,,,Felony,2019/11/21,2019/12/09,N,18,Convicted,Concluded,Convicted,Sexual Assault
+1480,19007080,,,,Misdemeanor,2019/11/22,2019/11/26,N,4,Not Convicted,Concluded,Not Convicted,Stay Away Violati
+1481,19014906,,,,Misdemeanor,2019/11/25,2019/12/03,N,8,Convicted,Concluded,Convicted,DUI
+1482,2508197,,,,Misdemeanor,2019/12/03,2019/12/05,N,2,Convicted,Concluded,Convicted,Assault-Misdemean
+1485,19012958,,,,Misdemeanor,2019/12/03,2019/12/10,N,7,Convicted,Concluded,Convicted,DUI with Injury
+1484,17011490,,,,Misdemeanor,2019/12/04,2019/12/09,N,5,Not Convicted,Concluded,Not Convicted,DUI
+1486,19012589,,,,Misdemeanor,2019/12/04,2019/12/16,N,12,Not Convicted,Not Concluded,Mistrial,DUI
+1490,19014303,,,,Felony,2019/12/09,2019/12/18,N,9,Convicted,Concluded,Convicted,Gun-Felony
+1488,19009967,,,,Misdemeanor,2019/12/11,2019/12/18,N,7,Not Convicted,Not Concluded,Mistrial,DUI
+1487,18016173,,,,Misdemeanor,2019/12/12,2019/12/17,N,5,Convicted,Concluded,Convicted,DUI
+1489,19011235,,,,Misdemeanor,2019/12/12,2019/12/18,N,6,Convicted,Concluded,Convicted,DUI
+1491,19006347,,,,Misdemeanor,2019/12/16,2019/12/19,N,3,Convicted,Concluded,Convicted,DUI
+1492,19014609,,,,Misdemeanor,2019/12/16,2019/12/19,N,3,Not Convicted,Concluded,Not Convicted,DUI
+1493,19014609,,,,Misdemeanor,2019/12/17,2019/12/19,N,2,Not Convicted,Concluded,Not Convicted,DUI
+1498,19016943,,,,Misdemeanor,2019/12/17,2020/01/07,N,21,Convicted,Concluded,Convicted,Assault-Misdemean
+1499,19013095,,,,Felony,2019/12/20,2020/01/08,N,19,Convicted,Concluded,Convicted,Assault-Felony
+1496,19017179,,,,Misdemeanor,2019/12/26,2019/12/30,N,4,Convicted,Concluded,Convicted,Assault-Misdemean
+1497,19017359,,,,Felony,2019/12/27,2020/01/06,N,10,Not Convicted,Concluded,Not Convicted,Robbery 2nd Degre
+1500,19013095,,,,Felony,2019/12/30,2020/01/08,N,9,Convicted,Concluded,Convicted,Assault-Felony
+1506,19013938,,,,Felony,2019/12/30,2020/01/27,N,28,Not Convicted,Not Concluded,Mistrial,Sexual Assault
+1502,19013814,,,,Felony,2020/01/06,2020/01/15,N,9,Not Convicted,Not Concluded,Mistrial,Auto Theft
+1501,19005957,,,,Felony,2020/01/08,2020/01/14,N,6,Convicted,Concluded,Convicted,Burglary-Auto
+1503,19008435,,,,Felony,2020/01/09,2020/01/21,N,12,Convicted,Concluded,Convicted,Burglary-Resident
+1505,19013938,,,,Felony,2020/01/09,2020/01/27,N,18,Not Convicted,Not Concluded,Mistrial,Sexual Assault
+1504,15010824,,,,Felony,2020/01/16,2020/01/23,N,7,Not Convicted,Not Concluded,Mistrial,Gun-Felony
+1507,19016548,,,,Misdemeanor,2020/01/22,2020/01/28,N,6,Convicted,Concluded,Convicted,Stay Away Violati
+1510,16019096,,,,Felony,2020/01/22,2020/02/10,N,19,Convicted,Concluded,Convicted,Assault-Felony
+1508,2501949,,,,Misdemeanor,2020/01/27,2020/01/30,N,3,Not Convicted,Concluded,Not Convicted,Vehicular Homicid
+1509,15004295,,,,Felony,2020/01/29,2020/02/03,N,5,Not Convicted,Not Concluded,Mistrial,Sexual Assault
+1512,19014823,,,,Felony,2020/02/03,2020/02/14,N,11,Convicted,Concluded,Convicted,Burglary-Auto
+1511,2517010,,,,Misdemeanor,2020/02/05,2020/02/11,N,6,Not Convicted,Not Concluded,Mistrial,DUI
+1515,19007983,,,,Felony,2020/02/07,2020/02/25,N,18,Not Convicted,Concluded,Not Convicted,Assault-Felony
+1520,17005837,,,,Felony,2020/02/10,2020/03/03,N,22,Convicted,Concluded,Convicted,Sexual Assault
+1513,19008968,,,,Misdemeanor,2020/02/11,2020/02/21,N,10,Not Convicted,Concluded,Not Convicted,DUI
+1514,2517213,,,,Misdemeanor,2020/02/11,2020/02/24,N,13,Not Convicted,Concluded,Not Convicted,DUI
+1519,19015800,,,,Felony,2020/02/19,2020/03/03,N,13,Convicted,Concluded,Convicted,Assault-Felony
+1523,19012866,,,,Felony,2020/02/20,2020/03/10,N,19,Convicted,Concluded,Convicted,Sexual Assault
+1516,19016884,,,,Misdemeanor,2020/02/24,2020/02/28,N,4,Not Convicted,Concluded,Not Convicted,DUI
+1518,18004031,,,,Misdemeanor,2020/02/24,2020/03/02,N,7,Convicted,Concluded,Convicted,DUI
+1517,19018366,,,,Misdemeanor,2020/02/26,2020/03/02,N,5,Convicted,Concluded,Convicted,DUI
+1521,1516019,,,,Felony,2020/03/02,2020/03/09,N,7,Convicted,Concluded,Convicted,NA
+1522,19018438,19014480,19014480,,Misdemeanor,2020/03/03,2020/03/10,N,7,Convicted,Concluded,Convicted,Stay Away Violati
+1524,19016409,,,,Misdemeanor,2020/03/10,2020/03/13,N,3,Convicted,Concluded,Convicted,DUI
+1527,19015470,,,,Felony,2020/03/23,2020/09/22,N,183,Convicted,Concluded,Convicted,Robbery
+1526,20000300,,,,Felony,2020/08/05,2020/08/27,N,22,Convicted,Concluded,Convicted,Burglary-Resident
+1528,19015470,,,,Felony,2020/09/04,2020/09/22,N,18,Convicted,Concluded,Convicted,Robbery
+1529,19007515,,,,Felony,2020/09/10,2020/10/09,N,29,Convicted,Concluded,Convicted,Attempted Homicid
+1531,19009654,,,,Felony,2020/10/01,2020/11/09,N,39,Convicted,Concluded,Convicted,Assault-Felony
+1530,20001414,,,,Felony,2020/10/15,2020/10/28,N,13,Convicted,Concluded,Convicted,Assault-Felony
+1532,20007148,,,,Felony,2021/01/27,2021/02/24,N,28,NA,NA,Convicted,Sexual Assault
+1533,19016394,,,,Felony,2021/02/23,2021/03/23,N,28,Convicted,Concluded,Convicted,Sexual Assault
+1534,20008566,,,,Felony,2021/03/17,2021/04/12,N,26,Convicted,Concluded,Convicted,Assault-Felony
+1535,20009124,,,,Felony,2021/04/12,2021/05/03,N,21,NA,NA,Convicted,Homicide
