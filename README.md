@@ -11,7 +11,7 @@ GitHub contents:
 
   Datasets:
   
-   Here are all my datasets. Some are split by year. They include crime information, arrest information, DA information, and homicide rates for the top 29 US cities for 2020 and 2019. All files are described in my notebook.
+   Here are all my datasets. Some are split by year. They include crime information, arrest information, DA information, and homicide rates for the top 29 US cities for 2020 and 2019. All files are described in my notebook. Some files, including data for police calls and arrests were too large to uload to github.
       
  Notebooks:
    
