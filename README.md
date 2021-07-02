@@ -11,21 +11,7 @@ GitHub contents:
 
   Datasets:
   
-    Incident Reports
-     
-     -These include SFPD incident reports of crime within the city dating back to 2003 as .csv files
-    
-    Spending Reports
-      
-      This folder has .csv files that show the city's budget and spending on different departments, including policing, going back years.
-   
-    UOF Reports
-     
-     This includes reports of police Uses Of Force (UOFs) and dates/descriptions going back years.
-   
-    (TBD) Disciplinary Reports
-     
-     This will include .csv files of disciplinary and misconduct reports goin back years
+   Here are all my datasets. Some are split by year. They include crime information, arrest information, DA information, and homicide rates for the top 29 US cities for 2020 and 2019. All files are described in my notebook.
       
  Notebooks:
    
